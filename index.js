@@ -1,7 +1,7 @@
 /**
  @Name：fixable v1.0.0 固定尺寸比例伸缩页面
  @Author：huaianfox
- @email: zqingl@163.com
+ @email: 283334883@qq.com
  @License：MIT
  */
 
