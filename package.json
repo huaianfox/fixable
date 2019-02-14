@@ -1,0 +1,30 @@
+{
+  "name": "fixable",
+  "version": "1.0.0",
+  "description": "Build fixable scale page on mobile platform",
+  "keywords": [
+    "fixable",
+    "scale",
+    "mobile",
+    "viewport"
+  ],
+  "homepage": "https://github.com/huainfox/fixable",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:huaifox/fixable.git"
+  },
+  "author": [
+    {
+      "name": "huaianfox",
+      "email": "zqingl@163.com"
+    }
+  ],
+  "scripts": {
+    "compress": "uglifyjs index.js -o fixable.min.js -c -m"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "uglify-js": "^3.0.27"
+  },
+  "license": "MIT"
+}
